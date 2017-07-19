@@ -1,5 +1,5 @@
 # Android-with-TMP36-and-Processing
-Android with TMP36 and Processing
+Comunicate arduino with Processing via Serial, to processe large date or simply to store them. 
 
 # How it work
 <ul>
